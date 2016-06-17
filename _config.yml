@@ -6,9 +6,9 @@ color:
   saturation: 0.5997660474386066
   rhythmicContrast: 0.9075985322706401
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
 name: severe transporter

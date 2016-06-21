@@ -1,14 +1,14 @@
-layout_spectrum: 0.8031570790335536
-typography_spectrum: 0.8688817461952567
+layout_spectrum: 0.052446842193603516
+typography_spectrum: 0.7721696568187326
 color:
-  brandStrength: 0.1494556984398514
-  lightness: 0.7248320053331554
-  saturation: 0.5997660474386066
-  rhythmicContrast: 0.9075985322706401
+  brandStrength: 0.9828055070247501
+  lightness: 0.15672806650400162
+  saturation: 0.9864927583839744
+  rhythmicContrast: 0.2903596858959645
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
 name: Executive Realty\

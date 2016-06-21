@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T02:27:15.001Z'
+datePublished: '2016-06-21T22:07:08.764Z'
 sourcePath: _posts/2016-04-16-dogs-and-peanut-butter-a-match-made-in-photo-book-heaven.md
 inFeed: true
 isBasedOnUrl: >-
@@ -17,8 +17,9 @@ keywords:
   - photos
   - portraits
 related: []
-author: []
-dateModified: '2016-06-17T02:27:14.703Z'
+author:
+  - name: O
+dateModified: '2016-06-21T22:02:32.270Z'
 title: 'Dogs and Peanut Butter: A Match Made in Photo Book Heaven'
 app_links: []
 publisher:
@@ -38,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Dogs and Peanut Butter: A Match Made in Photo Book Heaven</h1><p>If you have a dog, you know the magic of the substance known as peanut butter-a small smudge on their nose and they'll be busy for the next 30 minutes. And now, animal photographer Greg Murray is capturing this magic in his photo book For the Love of Peanut Butter .</p><img src="http://petapixel.com/assets/uploads/2016/04/PB_Bernie_Kosar.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cde08334123e2f7fe684250a00b0ba6d03a29fe.jpg" /><h1>Dogs and Peanut Butter: A Match Made in Photo Book Heaven</h1><p>If you have a dog, you know the magic of the substance known as peanut butter-a small smudge on their nose and they'll be busy for the next 30 minutes. And now, animal photographer Greg Murray is capturing this magic in his photo book For the Love of Peanut Butter .</p></article>

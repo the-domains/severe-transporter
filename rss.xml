@@ -4,21 +4,21 @@
         <description><![CDATA[Executive Realty]]></description>
         <link>https://thegrid.ai/severe-transporter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 23:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 23:23:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/severe-transporter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rentals]]></title>
+            <description><![CDATA[<article><h1>Rentals</h1><p>PAGE 1</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/484aa4c4-6a01-41df-8a55-d99de6b9fd71.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/484aa4c4-6a01-41df-8a55-d99de6b9fd71.jpg</link>
+            <guid isPermaLink="false">41370a3c-a190-4afb-bb5e-64bafbfecf68</guid>
+            <pubDate>Wed, 22 Jun 2016 23:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Executive Realty]]></title>
             <description><![CDATA[<article><h1>Executive Realty</h1><p>Here In the...............</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb314e5fac315cc695c4f25514f0c71e/noop.jpg?input=http%3A%2F%2Fwww.executiverealty-tci.com%2Fimages%2Fbig-img3.jpg"></article>]]></description>
             <link>http://www.executiverealty-tci.com/</link>
             <guid isPermaLink="false">71abf39a-226a-4420-806d-c85664d56a76</guid>
             <pubDate>Wed, 22 Jun 2016 23:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rentals ]]></title>
-            <description><![CDATA[<article><h1>Rentals </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/484aa4c4-6a01-41df-8a55-d99de6b9fd71.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/484aa4c4-6a01-41df-8a55-d99de6b9fd71.jpg</link>
-            <guid isPermaLink="false">41370a3c-a190-4afb-bb5e-64bafbfecf68</guid>
-            <pubDate>Tue, 21 Jun 2016 22:28:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

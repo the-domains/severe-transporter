@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-22T22:30:39.876Z'
+datePublished: '2016-06-22T23:20:22.281Z'
 sourcePath: _posts/2016-06-17-real-estate.md
 isBasedOnUrl: 'http://www.executiverealty-tci.com/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-21T22:33:22.191Z'
+dateModified: '2016-06-22T23:20:14.430Z'
 title: Executive Realty
 app_links: []
 publisher:

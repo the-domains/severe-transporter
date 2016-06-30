@@ -1,5 +1,6 @@
-layout_spectrum: 0.052446842193603516
 typography_spectrum: 0.7721696568187326
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9828055070247501
   lightness: 0.15672806650400162
@@ -11,4 +12,12 @@ color:
     - '#8F9E8B'
     - '#F2E6B6'
     - '#412A22'
-name: Executive Realty\
+layout_spectrum: 0.052446842193603516
+author:
+  name: Oral I.L. Selver
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/be1194e5-608a-477f-8745-f8453d0698a8.png
+name: Executive Realty TCI
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cb9b1c2-26e6-46ae-9449-22b5142a0138.jpg
+title: Executive Realty TCI

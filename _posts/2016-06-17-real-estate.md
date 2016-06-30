@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-30T19:32:33.944Z'
+datePublished: '2016-06-30T21:19:03.579Z'
 sourcePath: _posts/2016-06-17-real-estate.md
 isBasedOnUrl: 'http://www.executiverealty-tci.com/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-30T19:31:47.905Z'
+dateModified: '2016-06-30T20:33:09.176Z'
 title: Executive Realty
 app_links: []
 publisher:
@@ -120,11 +120,11 @@ We can manage your home, condominium unit or apartment complex. Give us a call: 
 _**Maturing Company Growth**_
 
 _Birdie Selver - Broker_  
-Executive Realty is a muturing Real Estate Company in the Turks & Caicos Islands, but our team has years of Real Estate Experience. Our Company sees a very bright future for both our Agents and the Company. This is your chance to visit the Turks & Caicos Islands, it beautiful by nature. Come see for yourself. Make your travel arrangments, give us a call and we will collect you from your hotel. We want to say thank you to all of the people, who visited our Website and tell a friend or relative. You telling a friend or relative about Executive Realty in the Turks & Caicos Island will help make us leader in Real Estate.
+Executive Realty is a maturing Real Estate Company in the Turks & Caicos Islands, but our team has years of Real Estate Experience. Our Company sees a very bright future for both our Agents and the Company. This is your chance to visit the Turks & Caicos Islands, it beautiful by nature. Come see for yourself. Make your travel arrangements, give us a call and we will collect you from your hotel. We want to say thank you to all of the people, who visited our Website and tell a friend or relative. You telling a friend or relative about Executive Realty in the Turks & Caicos Island will help make us leader in Real Estate.
 
-_**New Inovations**_  
+_**New Innovations**_  
 Birdie Selver - Broker  
-Our innovations are to increase our Staff, our clientel, Property Listings & Sales.
+Our innovations are to increase our Staff, our clientele, Property Listings & Sales.
 
 _**Quality Control**_  
 Birdie Selver - Broker  
@@ -135,7 +135,7 @@ Birdie Selver - Broker
 We are here for your Real Estate needs. Give us a budget to work with and we will find it for you. One satisfied customer at a time. Call us at:1-649-946-4777 or 305-712-1978 or E-mail:sales@executiverealty-tci.com.
 
 _**Careers**_  
-We have established ourself as a maturing Real Estate Company in the Turks & Caicos Islands. We have an experienced, dedicated and professional team and are looking for like minded individuals to come and join us.  
+We have established our-self as a maturing Real Estate Company in the Turks & Caicos Islands. We have an experienced, dedicated and professional team and are looking for like minded individuals to come and join us.  
 Below is our current list of vacancies. If you wish to submit your application, please send it via e-mail, info@executiverealty-tci.com or you can fax us at 1-649-946-4990\. Thanks!
 
 * _**Receptionist **_Must be well presented, speak English fluently, must be able to work independently. Applicant must be a high school graduate.

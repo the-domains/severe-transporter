@@ -4,7 +4,7 @@
         <description><![CDATA[Executive Realty TCI]]></description>
         <link>https://thegrid.ai/executiverealty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 18:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 19:32:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/executiverealty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Executive Realty]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.executiverealty-tci.com/</link>
             <guid isPermaLink="false">71abf39a-226a-4420-806d-c85664d56a76</guid>
             <pubDate>Thu, 30 Jun 2016 18:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rentals]]></title>
-            <description><![CDATA[<article><h1>Rentals</h1><p>PAGE 1</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/484aa4c4-6a01-41df-8a55-d99de6b9fd71.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/484aa4c4-6a01-41df-8a55-d99de6b9fd71.jpg</link>
-            <guid isPermaLink="false">41370a3c-a190-4afb-bb5e-64bafbfecf68</guid>
-            <pubDate>Tue, 28 Jun 2016 15:24:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

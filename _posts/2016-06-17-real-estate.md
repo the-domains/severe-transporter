@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-06-30T21:19:03.579Z'
+datePublished: '2016-08-03T00:56:17.189Z'
 sourcePath: _posts/2016-06-17-real-estate.md
 isBasedOnUrl: 'http://www.executiverealty-tci.com/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-30T20:33:09.176Z'
+dateModified: '2016-08-03T00:56:16.680Z'
 title: Executive Realty
 app_links: []
-publisher:
-  url: 'http://www.executiverealty-tci.com'
-  name: Executiverealty-tci
-  favicon: null
-  domain: www.executiverealty-tci.com
+publisher: {}
 description: Make Turks and Caicos Islands your Real Estate destination.
 inLanguage: la
+via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -29,16 +26,18 @@ _type: MediaObject
 # Real Estate
 
 Make Turks and Caicos Islands your Real Estate destination.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e996d71c-6c53-4ed3-b5c9-2a729a34e361.jpg)
+![Grace Bay, Providenciales, Turks and Caicos Islands](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e996d71c-6c53-4ed3-b5c9-2a729a34e361.jpg)
 
 # _Welcome Message_
 
 _Welcome to Executive Realty in the Turks & Caicos Islands. This is your one-stop Real Estate Solution. Whether you are an experienced Investor or a first time buyer, we can assist you in finding the property of your dreams in these beautiful Islands. Give us a call today and let us find you that home, condominium or vacant land in Paradise._
 
-## _Why Turks & Caicos_
+## _Why the Turks & Caicos_
 ![North Caicos](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dd49d7e-eb56-4dd8-958f-f782770e1bae.jpg)
 
-_Turks & Caicos Islands are 575 miles south east of Miami and 40 miles from the Bahamas. During the winter, the temperature is 75 - 85 degree and 85 - 95 in the summer. Our environment is pollution free and the weather is excellent all year round. There are miles of white sandy beaches & turquoise waters. The language spoken is English. The currency is US Dollars. We have numerous world class water sports, including golf, tennis and horse back riding. We also have the lowest crime rate. There are no food chains & no cruise ships. No income tax on revenue generated, no annual taxes. no capital gain taxes on disposal of property. Any Nationality may purchase & hold land. It is a British dependent territory, ensures an accountable Legal & Political System. Real Estate Commissions are 10% on land & 6% on building. Live your dreams, paradise awaits you._
+_Turks & Caicos Islands are 575 miles south east of Miami and 40 miles from the Bahamas. During the winter, the temperature is 75 - 85 degree and 85 - 95 in the summer. Our environment is pollution free and the weather is excellent all year round. There are miles of white sandy beaches & turquoise waters. The language spoken is English. The currency is US Dollars._
+
+_We have numerous world class water sports, including golf, tennis and horse back riding. We also have the lowest crime rate. There are no food chains & no cruise ships. No income tax on revenue generated, no annual taxes. no capital gain taxes on disposal of property. Any Nationality may purchase & hold land. It is a British dependent territory, ensures an accountable Legal & Political System. Real Estate Commissions are 10% on land & 6% on building. Live your dreams, paradise awaits you._
 
 ## _Why Executive Realty_
 
@@ -75,7 +74,7 @@ Review our Website, The Multiple Listing Servie and the Real Estate Magazine and
 
 ## Selling
 
-Below are some preparations you can make prior to contacting an agent. You can also [contact us at any time][0]and we can guide you through the entire process as well.
+Below are some preparations you can make prior to contacting an agent. You can also [contact us at any time ][0]and we can guide you through the entire process as well.
 
 ## _Selling a Property Tips_
 
@@ -113,13 +112,14 @@ We can manage your home, condominium unit or apartment complex. Give us a call: 
 
 # Agents
 ![Birdie Selver - Broker](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5acd35d-d4cb-481f-909d-e82737fe5eca.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f399703-434d-4c23-82d6-d4a765c085ac.jpg)
+![I. Oral Selver - Co Broker](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f399703-434d-4c23-82d6-d4a765c085ac.jpg)
 
 ### We will assist you in buying or selling properties in the Turks & Caicos Islands, represent you as a Buyer Agent, refer you to Banks, Architects, Attorneys and Professional Builders, arranges ownership through a Trust or Local Corporation. Needing a Competitive Market Analysis of your property, give us a call: 1-649-946-4777 or E-mail:_info@executiverealty-tci.com_
 
 _**Maturing Company Growth**_
 
-_Birdie Selver - Broker_  
+_Birdie Selver - Broker_
+
 Executive Realty is a maturing Real Estate Company in the Turks & Caicos Islands, but our team has years of Real Estate Experience. Our Company sees a very bright future for both our Agents and the Company. This is your chance to visit the Turks & Caicos Islands, it beautiful by nature. Come see for yourself. Make your travel arrangements, give us a call and we will collect you from your hotel. We want to say thank you to all of the people, who visited our Website and tell a friend or relative. You telling a friend or relative about Executive Realty in the Turks & Caicos Island will help make us leader in Real Estate.
 
 _**New Innovations**_  

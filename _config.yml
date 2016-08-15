@@ -1,18 +1,18 @@
-typography_spectrum: 0.3506159600801766
+typography_spectrum: 0.13302508858032525
 content_rating:
   adult: false
 color:
-  brandStrength: 0.4828637605533004
-  lightness: 0.8661046449560672
-  saturation: 0.9902332299388945
-  rhythmicContrast: 0.8889429427217692
+  brandStrength: 0.1991130264941603
+  lightness: 0.024850087240338326
+  saturation: 0.9435874717310071
+  rhythmicContrast: 0.6279780883342028
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.5208194975275546
+layout_spectrum: 0.04809064930304885
 author:
   name: Oral I.L. Selver
 logo: >-

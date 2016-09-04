@@ -1,21 +1,19 @@
 ---
-datePublished: '2016-08-03T00:56:17.189Z'
+datePublished: '2016-09-02T00:15:28.022Z'
 sourcePath: _posts/2016-06-17-real-estate.md
-isBasedOnUrl: 'http://www.executiverealty-tci.com/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-08-03T00:56:16.680Z'
+dateModified: '2016-09-02T00:15:27.444Z'
 title: Executive Realty
 app_links: []
 publisher: {}
 description: Make Turks and Caicos Islands your Real Estate destination.
 inLanguage: la
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: executive-realty/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T00:19:53.287Z'
+datePublished: '2016-09-02T00:20:31.847Z'
 sourcePath: _posts/2016-06-17-real-estate.md
 keywords: []
 related: []
 author: []
-dateModified: '2016-09-02T00:19:52.550Z'
+dateModified: '2016-09-02T00:20:31.354Z'
 title: Executive Realty
 app_links: []
 publisher: {}
